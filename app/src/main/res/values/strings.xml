@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarBuzzHDF</string>
+    <string name="action_settings">Settings</string>
+    <string name="starbuzz_logo">Starbuzz Logo</string>
+    <string name="title_activity_drink_category_activiy">DrinkCategoryActiviy</string>
+    <string name="title_activity_drink">DrinkActivity</string>
+</resources>
